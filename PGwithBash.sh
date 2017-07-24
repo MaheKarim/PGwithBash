@@ -2,7 +2,7 @@
 
 #MaheKarim
 #mailme:mahekarim@gmail.com
-#current version: 1.0
+#current version: v1.0
  dialog --yesno "Do you want to a Strong Passw0rd? 0 0
   rc=$?
 
